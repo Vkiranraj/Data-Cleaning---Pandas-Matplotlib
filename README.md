@@ -1,2 +1,2 @@
 # Data-Cleaning---Pandas-Matplotlib
-Utilized the object oriented programming to implement a wheel class and  a manual player class in python.
+This project is still under construction. Basically, I utilized Pandas and matplotlib to clean and study the granularity of a dataset on ratings of restaurants in San Francisco. I will upload this project Wednesday(11/2/2019)
